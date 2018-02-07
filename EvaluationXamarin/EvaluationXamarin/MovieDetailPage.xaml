@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="EvaluationXamarin.MovieDetailPage">
+	<ContentPage.Content>
+        <StackLayout>
+            <Label
+                x:Name="lblTitle"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label
+                x:Name="lblDescription"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label
+                x:Name="lblCategory"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label
+                x:Name="lblRating"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Image
+                x:Name="imgImage"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                HeightRequest="200"
+                />
+            </StackLayout>
+	</ContentPage.Content>
+</ContentPage>

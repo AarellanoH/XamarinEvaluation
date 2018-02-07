@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C2AA6EA2-3F3B-4657-B352-3C223FE1EDE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EvaluationXamarin/LoginPage.xaml.cs">
+    <Files>
+      <File FileName="EvaluationXamarin/UserDAO.cs" Line="88" Column="49" />
+      <File FileName="EvaluationXamarin/MovieDAO.cs" Line="23" Column="1" />
+      <File FileName="EvaluationXamarin/MovieListPage.xaml.cs" Line="16" Column="26" />
+      <File FileName="EvaluationXamarin/LoginPage.xaml.cs" Line="20" Column="9" />
+      <File FileName="EvaluationXamarin/MovieDetailPage.xaml" Line="30" Column="19" />
+      <File FileName="EvaluationXamarin/MovieDetailPage.xaml.cs" Line="24" Column="53" />
+      <File FileName="EvaluationXamarin/RegisterPage.xaml.cs" Line="28" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="EvaluationXamarin/UserDAO.cs" line="54" offsetX="1080" offsetY="795" expression="client" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.EvaluationXamarin.Droid PreferredExecutionTarget="Android.6989c465" />
+  <MonoDevelop.Ide.ItemProperties.EvaluationXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7A509B68-6B48-43D8-8B85-7CAAC03D19AD">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.EvaluationXamarin.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>

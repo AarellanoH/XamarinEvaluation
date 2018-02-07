@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="EvaluationXamarin.RegisterPage">
+	
+        <StackLayout>
+
+            <Label Text="Login"/>
+
+            <Entry 
+                x:Name="entName"
+                Placeholder="Name"
+            />
+            <Entry 
+                x:Name="entUsername"
+                Placeholder="Username"
+            />
+            <Entry 
+                x:Name="entPhone"
+                Placeholder="Phone"
+            />
+            <Entry 
+                x:Name="entEmail"
+                Placeholder="Email"
+                Keyboard="Email"
+            />
+            <Entry 
+                x:Name="entPassword"
+                Placeholder="Password"
+                IsPassword="true"
+            />
+            <Entry 
+                x:Name="entPasswordConfirmation"
+                Placeholder="Confirm password"
+                IsPassword="true"
+            />
+            <Button
+                x:Name="btnRegister"
+                Text="Register"/>
+
+        </StackLayout>
+</ContentPage>
